@@ -1,0 +1,42 @@
+.name{
+    font-family: 'karla',sans-serif;
+    font-size: 2.5rem;
+   
+}
+.name-main{
+    font-size: 3.5rem;
+    font-family: 'karla',sans-serif;
+    font-weight: bolder;
+}
+.input{
+    width: 75vw;
+}
+.meaning-txt{
+    font-family: 'karla',sans-serif;
+    font-size: 1.25rem;
+}
+#book{
+    font-family: 'karla',sans-serif;
+    color: #1976D2
+}
+
+hr{
+    border: 0.1px solid #1976D2
+}
+.footer-div{
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 1.1rem;
+    font-family: 'karla', sans-serif;
+}
+@media screen and (max-width:768px) {
+    .name-main{
+        text-align: center;
+    }
+    .input{
+        width: 85vw;
+    }
+}
