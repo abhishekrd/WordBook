@@ -21,8 +21,6 @@ function App() {
     }
   }
 
-  console.log(means.data);
-
   useEffect(() => {
     getWords()
   },[word])

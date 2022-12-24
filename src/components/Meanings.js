@@ -3,7 +3,6 @@ import React from 'react'
 
 const Meanings = ({means,word,defs}) => {
  
-console.log(means.data);
   return (
     <Container>
     <div>
