@@ -1,4 +1,6 @@
-# WordBook 🔍
-A Progressive Web App working as An English Dictionary
 
-Tech Stack : ⚛️React + Vite, Material UI, PWA🚀
+# WordBook🔍
+#### Discover new words and improve your vocabulary by looking up their meanings and learning how to say them correctly : )
+
+### Tech Stack ⚡:
+<img src="https://skillicons.dev/icons?i=react,vite,materialui" />
